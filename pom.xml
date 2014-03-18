@@ -129,6 +129,7 @@
             <version>2.5</version>
         </dependency>
 
+        <!-- TODO : Would be better to extract the RestxArchive class into a dedicated module -->
         <dependency>
             <groupId>io.restx</groupId>
             <artifactId>restx-core-shell</artifactId>
